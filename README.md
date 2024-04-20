@@ -1,5 +1,5 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=4l0ne4ever&label=Profile%20views&color=0e75b6&style=flat" alt="4l0ne4ever" /> </p>
-<h1 align="center">Привет👌, I'm Thuyet Duong (Christopher)</h1>
+<h1 align="center">Hello guys, I'm Thuyet Duong (Christopher)</h1>
 <h3 align="center">A passionate Frontend developer and an Youtuber</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/e9/53/f3/e953f33febb826f56b3bc45a438a0f14.jpg">
 <p align="left"> <a href="https://twitter.com/sh1ropz" target="blank"><img src="https://img.shields.io/twitter/follow/sh1ropz?logo=twitter&style=for-the-badge" alt="sh1ropz" /></a> </p>
