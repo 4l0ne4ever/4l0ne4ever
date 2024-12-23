@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=4l0ne4ever&label=Profile%20views&color=0e75b6&style=flat" alt="4l0ne4ever" /> </p>
 <h1 align="center">Hello guys, I'm Thuyet Duong (Christopher)</h1>
 <h3 align="center">A passionate Frontend developer and an Youtuber</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/e9/53/f3/e953f33febb826f56b3bc45a438a0f14.jpg">
+<img align="right" alt="Coding" width="400" src="https://scontent.fhan19-1.fna.fbcdn.net/v/t39.30808-6/312722048_140941175353485_6762914944524539545_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=669761&_nc_eui2=AeH0oLQD6KZJ9AdIvgTcH9VkM3xzYKMwlTQzfHNgozCVNAlvKtTbqhk3ruFD9Cevn5l7LPMJKFlrJdf-stb20Adz&_nc_ohc=OcPQwBl6hOQQ7kNvgH7VK_K&_nc_oc=AdghKy5VMK5EhDTEbGtyrkp5taPAp2i_uxUMCX5b1AYq8vdOOjMDvqkaAJjfLYX0TV_RF8FJ-QRAX9USGCMuus9r&_nc_zt=23&_nc_ht=scontent.fhan19-1.fna&_nc_gid=AfnoF5BVOsRJs_BLqBybS2S&oh=00_AYC0giwuMZq1tC2WHcvjrAksdWf6I1Vt51xXZ5rSY8N-8w&oe=676EEE61">
 <p align="left"> <a href="https://twitter.com/sh1ropz" target="blank"><img src="https://img.shields.io/twitter/follow/sh1ropz?logo=twitter&style=for-the-badge" alt="sh1ropz" /></a> </p>
 
 - 🔭 I’m currently working on **Parallax city 🌃**
